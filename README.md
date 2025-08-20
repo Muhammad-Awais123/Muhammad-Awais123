@@ -76,7 +76,7 @@ Here are a few highlights from my GitHub:
 ### 🤝 Connect With Me
 
 * 🌐 Portfolio: [awais-portfolio-web.netlify.app](https://awais-portfolio-web.netlify.app)
-* 📄 [Resume](https://drive.google.com/file/d/1aCBvZNQ0Nb-3zDLo5A0Ba7LPU7YrPHv5/view?usp=drivesdk)
+* 📄 [Resume]([https://drive.google.com/file/d/1aCBvZNQ0Nb-3zDLo5A0Ba7LPU7YrPHv5/view?usp=drivesdk](https://drive.google.com/file/d/1grOpV1slxhaB_6JL8NuAveLZzodKsh9S/view?usp=drivesdk))
 * 💬 Email: [awaisch1130@gmail.com](mailto:awaisch1130@gmail.com)
 * 🔗 LinkedIn: [linkedin.com/in/muhammad-awais-4a5739374](https://www.linkedin.com/in/muhammad-awais-4a5739374)
 
