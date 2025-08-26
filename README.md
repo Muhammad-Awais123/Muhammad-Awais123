@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
 <h3 align="center">🚀 MERN Stack Developer | Frontend Web Developer | Cybersecurity Student from Pakistan 🇵🇰</h3>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;Cybersecurity+Enthusiast;Clean+Code+Advocate;Always+Learning+and+Building&center=true&width=500&height=45&color=0AE98C&vCenter=true&pause=1000&size=20" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Awais123&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
