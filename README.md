@@ -66,9 +66,9 @@
 
 ## 🤝 Connect With Me  
 
-- 🌐 Portfolio: [awais-portfolio-web.netlify.app](https://awais-portfolio-web.netlify.app)  
-- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1grOpV1slxhaB_6JL8NuAveLZzodKsh9S/view?usp=drivesdk)  
-- 💬 Email: [awaisch1130@gmail.com](mailto:awaisch1130@gmail.com)  
+- 🌐 Portfolio: [http://awaisweb.vercel.app](http://awaisweb.vercel.app)  
+- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1sE6LvAYMsJHQpzWsiwx6e6FwYfwg1JcJ/view?usp=drivesdk)  
+- 💬 Email: [awais.develper@gmail.com](mailto:awais.develper@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/muhammad-awais-4a5739374](https://www.linkedin.com/in/muhammad-awais-4a5739374)  
 
 ---
